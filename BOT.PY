@@ -6,7 +6,7 @@ from aiogram.filters import CommandStart
 from aiogram.types import Message, ReplyKeyboardMarkup, KeyboardButton
 
 # Telegram bot tokenini Railway Environment Variables (Atrof-muhit o'zgaruvchilari)dan oladi
-TOKEN = os.getenv("BOT_TOKEN")
+TOKEN = "8829111801:AAHSdemxCPRk9iN3i9rpvwfeq5OBZ-BpG9k"
 
 # Loglarni sozlash (Xatoliklarni kuzatish uchun)
 logging.basicConfig(level=logging.INFO)
